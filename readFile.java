@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author USER
  */
-public class readFileTugas2 {
+public class readFile {
     
     public void bacaFile(String fileName) throws FileNotFoundException{
         File myFile = new File(fileName);
